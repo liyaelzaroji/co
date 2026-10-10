@@ -1,0 +1,9 @@
+Product,Category,Revenue,Quantity,Price
+Notebook,Stationery,1200,20,60
+Pen,Stationery,500,50,10
+Headphones,Electronics,6000,4,1500
+Mouse,Electronics,1800,6,300
+Bottle,Home,900,10,90
+Notebook,Stationery,1200,20,60
+Lamp,Home,,3,450
+Cable,Electronics,750,5,150
